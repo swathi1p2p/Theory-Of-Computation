@@ -1,0 +1,4 @@
+Automaton Simulator, v1.0
+dfa {
+	alphabet {abcd*}
+}
